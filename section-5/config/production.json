@@ -1,0 +1,6 @@
+{
+    "name":"production",
+    "mail":{
+        "server":"prod@mailserver"
+    }
+}
